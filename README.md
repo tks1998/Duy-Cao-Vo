@@ -20,4 +20,5 @@ Talk to me about
 - ⚡ Fun fact: Passionate about music.
 
 ![Duy's github stats](https://github-readme-stats.vercel.app/api?username=Duy-Cao-Vo&hide=["issues"]&show_icons=true&theme=radical)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Duy-Cao-Vo.Duy-Cao-Vo)
 
