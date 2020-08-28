@@ -7,24 +7,14 @@
 [![Medium Badge](https://img.shields.io/badge/-@caoduy-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/harsh-kumar-khatri)
 [![Gmail Badge](https://img.shields.io/badge/-vncduy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vncduy@gmail.com)](mailto:vncduy@gmail.com)
 
-I am Harsh Kumar Khatri 😃. I am from Kota, Rajasthan and currently doing my B.Tech from Career Point University,Alniya 🏫.I love to explore and learn about new things.
-## 👯 Communities
-* DSC Lead
-* Mentor at HackItShipIt(MLH), Hack for the people, HackinCodes
-* Microsoft Student Learn Ambassador(MSP/MLSA)
-* Deeplearning.ai event ambassador
-* Management Team Lead at Voice Of Code
-* CSE Club at CPU
-* CamPus Ambassador at Coding Ninja and Humanity Welfare Council
-* Internshala Student Partner-16
+I am Cao Duy 😃. I am from Vietnam and really into Data Science. I love to explore and learn about new things 🏫
 ## ⚡ Technologies
 Talk to me about
 - Data Analyst **Python, SQL**
 - Web Application **Flask,Django**
 - Implement Machine Learning Models
 - Machine Learning Platform **Tensorflow**(Still learning)
-- Mobile application development using **Flutter and Kotlin**
-- Analyse Data **Google Cloud Platform**
+- Analyze Data **Google Cloud Platform**
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
 - 🎯 Portfolio site: [Portfolio](https://vo-nguyen-cao-duy.herokuapp.com/)
