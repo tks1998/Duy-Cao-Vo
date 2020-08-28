@@ -2,7 +2,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Website Badge](https://img.shields.io/badge/-@caoduy?style=flat-square&labelColor=1ca0f1&logo=visual-studio-code&logoColor=white&link=https://vo-nguyen-cao-duy.herokuapp.com/)](https://vo-nguyen-cao-duy.herokuapp.com/) 
+[![Website Badge](https://img.shields.io/badge/-@caoduy-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=visual-studio-code&logoColor=white&link=https://vo-nguyen-cao-duy.herokuapp.com/)](https://vo-nguyen-cao-duy.herokuapp.com/) 
 [![Linkedin Badge](https://img.shields.io/badge/-caoduy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cao-duy-065a86189/)](https://www.linkedin.com/in/cao-duy-065a86189/) 
 [![Medium Badge](https://img.shields.io/badge/-@caoduy-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/harsh-kumar-khatri)
 [![Gmail Badge](https://img.shields.io/badge/-vncduy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vncduy@gmail.com)](mailto:vncduy@gmail.com)
