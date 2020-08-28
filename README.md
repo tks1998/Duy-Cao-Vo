@@ -19,7 +19,7 @@ Talk to me about
 - 🎯 Portfolio site: [Portfolio](https://vo-nguyen-cao-duy.herokuapp.com/)
 - ⚡ Fun fact: Pasionate with music.
 
-![Duy's github stats](https://github-readme-stats.vercel.app/api?username=Duy-Cao-Vo&hide=["issues"]&show_icons=true)
+![Duy's github stats](https://github-readme-stats.vercel.app/api?username=Duy-Cao-Vo&hide=["issues"]&show_icons=true&theme=radical)
 
 ## ![visitors](https://visitor-badge.glitch.me/badge?page_id=harshkumarkhatri.harshkumarkhatri)
 
