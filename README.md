@@ -12,7 +12,7 @@ Talk to me about
 - Data Analyst **Python, SQL**
 - Web Application **Flask,Django**
 - Implement Machine Learning Models
-- Machine Learning Platform **Tensorflow**(Still learning)
+- Machine Learning Platform **Tensorflow** (Still learning)
 - Analyze Data **Google Cloud Platform**
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
