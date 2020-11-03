@@ -18,7 +18,7 @@ Talk to me about
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
 <!-- - 🎯 Portfolio site: [Portfolio](https://vo-nguyen-cao-duy.herokuapp.com/)
-- ⚡ Fun fact: Passionate about music.
+- ⚡ Fun fact: Passionate about music.!-->
 
 ![Duy's github stats](https://github-readme-stats.vercel.app/api?username=tks1998&hide=["issues"]&show_icons=true&theme=radical)
 
